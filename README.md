@@ -12,4 +12,4 @@ This objective of this work is to reduces dimensional problems of Bengali text c
 
 
 
-For Full Paper: click Here[https://github.com/RatulSikder97/genetic-Feature-selection/blob/main/final%20report.pdf]
+
